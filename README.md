@@ -1,6 +1,6 @@
-# Personality Prediction
+# VibeCheck (Personality Prediction)
 
-Notebook-driven experiment for predicting introvert vs. extrovert labels from simple behavioral signals. This is a simple project meant to try out a binary personality classifier end-to-end.
+VibeCheck is a notebook-driven experiment for predicting introvert vs. extrovert labels from simple behavioral signals. It stays intentionally lightweight—a quick end-to-end trial of a binary personality classifier.
 
 ## Data
 - Source CSV: `data/personality_datasert.csv`
